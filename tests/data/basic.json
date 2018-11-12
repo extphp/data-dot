@@ -1,0 +1,19 @@
+{
+    "foo": "bar",
+    "elements": [
+        "one",
+        "two",
+        "three"
+    ],
+    "objects": [
+        {
+            "name": "first"
+        },
+        {
+            "name": "second"
+        },
+        {
+            "name": "third"
+        }
+    ]
+}
