@@ -1,5 +1,11 @@
 # Data Dot
 
+[![Build Status](https://travis-ci.org/extphp/data-dot.svg?branch=master)](https://travis-ci.org/extphp/data-dot)
+[![Latest Stable Version](https://poser.pugx.org/extphp/data-dot/v/stable)](https://packagist.org/packages/extphp/data-dot)
+[![License](https://poser.pugx.org/extphp/data-dot/license)](https://packagist.org/packages/extphp/data-dot)
+[![Total Downloads](https://poser.pugx.org/extphp/data-dot/downloads)](https://packagist.org/packages/extphp/data-dot)
+
+
 A simple dot notation accessor, able to handle a mix of arrays and objects.
 
 
