@@ -1,0 +1,19 @@
+site_name: PHP Data Dot
+site_url: https://github.com/extphp/data-dot
+site_description: PHP Dot Notation package.
+site_author: Bogdan Cismariu
+
+repo_url: https://github.com/extphp/data-dot
+edit_uri: ""
+
+theme:
+    name: mkdocs
+
+nav:
+    - Home: index.md
+
+
+copyright: Copyright &copy; 2018 <a href="https://github.com/bcismariu">Bogdan Cismariu</a>.
+
+plugins:
+    - search

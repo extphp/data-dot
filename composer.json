@@ -1,6 +1,6 @@
 {
     "name": "extphp/data-dot",
-    "description": "A property accessor helper capable of using dot notation for a mix of arrays and objects",
+    "description": "A property accessor helper capable of using dot notation for a mix of arrays and objects.",
     "type": "library",
     "authors": [
         {
